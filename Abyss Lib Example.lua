@@ -1,4 +1,4 @@
---Credit to xz#1111 for source
+--Credit to 3wF for source
 local Ui = loadstring(game:HttpGet("https://raw.githubusercontent.com/i3wF/Abyss-Lib/main/Abyss%20Lib%20Source.lua"))()
 local Ui = Library
 
