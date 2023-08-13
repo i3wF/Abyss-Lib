@@ -1,5 +1,5 @@
 --Credit to xz#1111 for source
-local Ui = loadstring(game:HttpGet("https://raw.githubusercontent.com/drillygzzly/Other/main/abyssoruce%40eayz.lua"))()
+local Ui = loadstring(game:HttpGet("https://raw.githubusercontent.com/i3wF/Abyss-Lib/main/Abyss%20Lib%20Source.lua"))()
 local Ui = Library
 
 local LoadTime = tick()
