@@ -1,6 +1,6 @@
 -- // Lib \\ --
 --[[
-    local UI = loadstring(game:HttpGet("https://abyss.best/assets/files/gayasf.ui2?key=5y1lxXSfWKhlQkSqhUuFyB8kPp8hsCau"))()
+    local UI = loadstring(game:HttpGet("https://raw.githubusercontent.com/i3wF/Abyss-Lib/main/Abyss%20Lib%20Source.lua"))()
 ]]
 -- // Library Init \\ --
 local Start = tick()
